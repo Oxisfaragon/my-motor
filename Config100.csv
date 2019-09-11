@@ -1,0 +1,5 @@
+Filename,NSample,SampleRate,Mean,Covariance
+motor-measurements.csv,100,0.1,2,0.2
+,99,99,5,0
+,99,99,99,0
+,99,99,99,0.2
